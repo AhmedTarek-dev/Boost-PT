@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "82676782518",
+    "firebase_url": "https://boost-pt-default-rtdb.firebaseio.com",
+    "project_id": "boost-pt",
+    "storage_bucket": "boost-pt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82676782518:android:936bb79bed08ac3c0ddd17",
+        "android_client_info": {
+          "package_name": "com.example.boost_pt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82676782518-4us9ksohv93td14qrshu1u82ak1osd65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boost_pt",
+            "certificate_hash": "1e1d7f4dcd90f85852da11c40000756d4a7ee656"
+          }
+        },
+        {
+          "client_id": "82676782518-k5sighe4poaqo6ovlunq1qlnbcljf9b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfIObygOBVkUXNAeXRhGs6l7FghE8_4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82676782518-k5sighe4poaqo6ovlunq1qlnbcljf9b4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82676782518-lv4h74cl9bqe6hpndf980fn2eiohdjp0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boostpt.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82676782518:android:16bdbb6ecc9b979d0ddd17",
+        "android_client_info": {
+          "package_name": "com.example.boost_pt_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82676782518-v2grf67r21ji791r3am8765rjd3tpil5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boost_pt_new",
+            "certificate_hash": "ee8c49c05f750eee28f89c78a034e8a4df103a06"
+          }
+        },
+        {
+          "client_id": "82676782518-k5sighe4poaqo6ovlunq1qlnbcljf9b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfIObygOBVkUXNAeXRhGs6l7FghE8_4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82676782518-k5sighe4poaqo6ovlunq1qlnbcljf9b4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82676782518-lv4h74cl9bqe6hpndf980fn2eiohdjp0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boostpt.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
